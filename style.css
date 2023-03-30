@@ -1,0 +1,44 @@
+body
+{
+    background-size: cover;
+}
+
+#titulo
+{
+    width: 100%;
+    text-align: center;
+    
+}
+
+#boton_instrucciones
+{
+    float: right;
+    box-shadow: 5px 5px 5px rgb(51, 1, 44);
+    font-size: 20px;
+    font-weight: 600;
+    
+}
+
+#start ,#status, #restart
+{
+    font-size: 25px;
+    box-shadow: 5px 5px 5px rgb(241, 243, 242);
+}
+
+#titulo_instrucciones
+{
+    background-color: aquamarine;
+}
+
+#contenido_instrucciones
+{
+    text-align: center; 
+}
+
+canvas 
+{
+    border:3px solid white;
+    border-radius: 20px;
+    box-shadow:  5px 5px 5px white;
+    margin-top: 20px;
+}
